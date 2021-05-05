@@ -3,7 +3,6 @@ def solution(N):
     new_str_value = list(str(N))
     result = []
     for x in new_str_value:
-        print(x)
         if int(x) < 5:
             result.append(5)
             result.append(''.join(new_str_value[new_str_value.index(x):]))
@@ -13,4 +12,4 @@ def solution(N):
     return ''.join(str(i) for i in result)
 
 
-solution(268)
+print(solution(268))
