@@ -1,6 +1,6 @@
 import textwrap
 
-
+# function to wrap the string
 def wrap(string, max_width):
     return '\n'.join(textwrap.wrap(string, max_width))
 
