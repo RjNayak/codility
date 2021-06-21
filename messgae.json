@@ -1,0 +1,37 @@
+{
+  "number": "+919861187802",
+  "devices": [
+    {
+      "id": 1,
+      "name": null,
+      "authToken": "823635574ce5abbfaa6cdab9e6357902d2ea35db",
+      "salt": "1405048885",
+      "signalingKey": null,
+      "gcmId": "cdJ58-QrVcI:APA91bElEMgxyxLK_DNqBo06Zk8EfLirRgkPEm65u5ITMQ3EQegx0vC22dgdK8BnBzjtfpUN7tU7mj3YvTHukUGJz9eGznSTBBd4LYTx6tgInYQym6ojhEeWNhii4YoVeLusNE159JX2",
+      "apnId": null,
+      "voipApnId": null,
+      "pushTimestamp": 1622645385851,
+      "uninstalledFeedback": 0,
+      "fetchesMessages": false,
+      "registrationId": 18,
+      "signedPreKey": {
+        "keyId": 5179773,
+        "publicKey": "BSaFg5ooI+WANTAVfEX6CqO9GJsFY4qEgBgkWj96Bg4e",
+        "signature": "CIfk+OLNmZ2j09Fx7BJwt317YJt5OaEgen7Y67J8fJd25we1FuIvoludTycTE4W80aJOq19FzWW4jXqVK1zLjQ"
+      },
+      "lastSeen": 1622592000000,
+      "created": 1622645381561,
+      "userAgent": "OWA",
+      "capabilities": null
+    }
+  ],
+  "identityKey": "BfGDBN7lWmXmKUQMROhM8uP07jugoTwbwMSnaUgnw1o7",
+  "name": "PP3IEr5U06aVIBK0O5yrak5eXKfEOK73Suy8A3+RvSBTJ/flozQpKdyOeSvJWL0MU7c+QFJz",
+  "avatar": "profiles/P_-XT7fs9nBwQVRq3ulQyw",
+  "avatarDigest": null,
+  "pin": null,
+  "registrationLock": null,
+  "registrationLockSalt": null,
+  "uak": "KbgmKJ5cZAFhoC3JFciUCQ==",
+  "uua": false
+}

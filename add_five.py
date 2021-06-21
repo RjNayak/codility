@@ -12,4 +12,4 @@ def solution(N):
     return ''.join(str(i) for i in result)
 
 
-print(solution(268))
+print(solution(812))

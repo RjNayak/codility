@@ -14,7 +14,7 @@ def solution(A):
         for k, v in dict_.items():
             if k == v:
                 list_item.append(k)
-    print(list
+    print(list)
     return max(list_item)
 
 
